@@ -16,3 +16,8 @@ Contributors must sign-off each commit by adding a `Signed-off-by: ...`
 line to commit messages to certify that they have the right to submit
 the code they are contributing to the project according to the
 [Developer Certificate of Origin (DCO)](https://developercertificate.org/).
+
+[ROS wiki](http://wiki.ros.org/turtlebot3)
+[ROBOTIS emanual](http://turtlebot3.robotis.com)
+[Github Repos](https://github.com/ROBOTIS-GIT/turtlebot3)
+[Github Issues](https://github.com/ROBOTIS-GIT/turtlebot3/issues)

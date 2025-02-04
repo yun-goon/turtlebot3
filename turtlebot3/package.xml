@@ -8,9 +8,6 @@
   </description>
   <maintainer email="willson@robotis.com">Will Son</maintainer>
   <license>Apache 2.0</license>
-  <url type="website">http://turtlebot3.robotis.com</url>
-  <url type="repository">https://github.com/ROBOTIS-GIT/turtlebot3</url>
-  <url type="bugtracker">https://github.com/ROBOTIS-GIT/turtlebot3/issues</url>
   <author email="thlim@robotis.com">Darby Lim</author>
   <author email="jhshim@robotis.com">Ryan Shim</author>
   <author email="pyo@robotis.com">Pyo</author>
@@ -20,7 +17,7 @@
   <exec_depend>turtlebot3_description</exec_depend>
   <exec_depend>turtlebot3_example</exec_depend>
   <exec_depend>turtlebot3_navigation2</exec_depend>
-  <exec_depend>turtlebot3_node</exec_depend>
+  <exec_depend>turtlebot3_hardware</exec_depend>
   <exec_depend>turtlebot3_teleop</exec_depend>
   <export>
     <build_type>ament_cmake</build_type>
